@@ -463,8 +463,7 @@ class LightFM(object):
             the fitted model
 
         """
-        #Jag - test
-        print "Fitting the model..."
+        
         # Discard old results, if any
         self._reset_state()
 
